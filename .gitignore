@@ -1,0 +1,14 @@
+# Ambiente Virtual Python
+venv/
+.venv/
+env/
+ENV/
+
+# Arquivos temporários e de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de dados e relatórios gerados
+*.csv
+*.png
