@@ -11,4 +11,4 @@ Este projeto consiste em um pipeline de dados em Python para ingestão, limpeza,
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/Luancostaf/meu-projeto-fintech.git](https://github.com/Luancostaf/meu-projeto-fintech.git)
-   cd SEU_REPOSITORIO
+   cd git meu-projeto-fintech
